@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CodeTampering</string>
+    <string name="titre_main">Super Appli Sécurisée et Secrète (SASS)</string>
+    <string name="subtitle">Accès Restraint</string>
+    <string name="username_main">Nom d\'utilisateur</string>
+    <string name="password_main">Mot de passe</string>
+    <string name="btn_main">Se Connecter</string>
+    <string name="error_main">Nom d\'utilisateur ou mot de passe incorrect</string>
+    <string name="title_activity_success" translatable="false">Succès</string>
+    <string name="titre_success">Bravo, vous avez réussi à vous connecter !</string>
+</resources>

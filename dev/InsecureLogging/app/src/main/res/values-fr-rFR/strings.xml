@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InsecureLogging</string>
+    <string name="titre_main">Changer votre mot de passe</string>
+    <string name="password_main">Nouveau mot de passe</string>
+    <string name="btn_main">Sauvegarder</string>
+    <string name="password_confirm_main">Confirmer le nouveau mot de passe</string>
+    <string name="log">"Nouveau mot de passe : "</string>
+    <string name="error_main">Les mots de passe ne sont pas identiques</string>
+    <string name="success_main">Mot de passe mis à jour</string>
+</resources>

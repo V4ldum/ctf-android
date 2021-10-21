@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titre_main">Bienvenu</string>
+    <string name="username_main">Nom d\'utilisateur</string>
+    <string name="password_main">Mot de passe</string>
+    <string name="btn_main">Se connecter</string>
+    <string name="error_main">Nom d\'utilisateur ou mot de passe incorrect</string>
+    <string name="titre_success">Félicitation, tu as réussi à te connecter !</string>
+</resources>

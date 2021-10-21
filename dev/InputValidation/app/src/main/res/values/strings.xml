@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">InputValidation</string>
+    <string name="titre_main">Welcome</string>
+    <string name="username_main">Username</string>
+    <string name="password_main">Password</string>
+    <string name="btn_main">Log in</string>
+
+    <string name="error_main">Incorrect username or password</string>
+
+    <string name="title_activity_success" translatable="false">Success</string>
+    <string name="titre_success">Congratulations, you managed to log in !</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CodeTampering</string>
+
+    <string name="titre_main">Super Secured Secret App (SSSA)</string>
+    <string name="subtitle">Restricted Access</string>
+
+    <string name="username_main">Username</string>
+    <string name="password_main">Password</string>
+    <string name="btn_main">Log in</string>
+
+    <string name="error_main">Incorrect username or password</string>
+
+    <string name="title_activity_success">Success</string>
+    <string name="titre_success">Congratulations, you managed to log in !</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InsecureLogging</string>
+    <string name="titre_main">Update your password</string>
+    <string name="password_main">New password</string>
+    <string name="password_confirm_main">Confirm new password</string>
+    <string name="btn_main">Save</string>
+
+    <string name="log">New password : </string>
+
+    <string name="error_main">Passwords do not match</string>
+
+    <string name="success_main">Password updated</string>
+</resources>

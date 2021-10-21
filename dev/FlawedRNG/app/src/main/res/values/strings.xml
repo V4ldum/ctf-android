@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">FlawedRNG</string>
+
+    <string name="titre_main">Bienvenue, entrez votre code secret pour accéder à vos données</string>
+    <string name="password_main">Secret</string>
+    <string name="btn_main">Se connecter</string>
+
+    <string name="error_main">Code inconnu</string>
+
+    <string name="title_activity_success">Succès</string>
+    <string name="titre_success">Accès limité aux ressources</string>
+    <string name="titre_success_elevated">Félicitations, vous avez réussi à vous connecter à la partie privilégiée de l\'application</string>
+</resources>

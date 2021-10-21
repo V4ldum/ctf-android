@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">VulnerableActivityComponents</string>
+
+    <string name="titre_main">Bienvenue</string>
+    <string name="username_main">Nom d\'utilisateur</string>
+    <string name="password_main">Mot de passe</string>
+    <string name="btn_main">Se connecter</string>
+
+    <string name="error_main">Nom d\'utilisateur ou mot de passe incorrect</string>
+
+    <string name="title_activity_success">Succès</string>
+    <string name="titre_success">Félicitations, vous avez réussi à vous connecter !</string>
+
+</resources>
